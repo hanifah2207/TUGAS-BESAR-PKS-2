@@ -34,5 +34,14 @@ Nama asistem praktikum 2: David Panondang Sinaga
 6. Masukkan usia pengguna.
 7. Program akan memberikan keluaran terhadap hasil inputan pengguna.
 
+# MEDIA
+
+LAPORAN  ||
+
+PROGRAM ||
+
+PROGRAM RUNNING |https://replit.com/@HANIFAHPUTRI2/perhitungan-dosis-obat-paracetamol-terhadap-rentang-usia#main.cpp|
+
+VIDEO ||
 
 
