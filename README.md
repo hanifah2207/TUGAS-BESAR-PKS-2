@@ -12,7 +12,9 @@ Program ini akan menampilkan berapa banyak paracetamol yang dikonsumsi dengan me
 
 # Pengantar Komputer & Software 2
 Nama Dosen: Asep Nurul Ajiid Mustofa,S.T,M.T.
+
 Nama asisten praktikum 1: Marchel Ferry Timoteus Samosir
+
 Nama asistem praktikum 2: David Panondang Sinaga
 
 
@@ -33,8 +35,4 @@ Nama asistem praktikum 2: David Panondang Sinaga
 7. Program akan memberikan keluaran terhadap hasil inputan pengguna.
 
 
-file |link|
-laporan ||
-program ||
-program running ||
-video penjelasan ||
+
