@@ -38,7 +38,7 @@ Nama asistem praktikum 2: David Panondang Sinaga
 
 | File |      link     |
 | ------ | ------ |
-| Laporan |  |
+| Laporan | https://drive.google.com/file/d/16Vw0buQmbrTSRjc2i7GYgGzLRwA0_V3F/view?usp=share_link |
 | Program | https://github.com/hanifah2207/TUGAS-BESAR-PKS-2.git |
 | Program running | https://onlinegdb.com/zm_MqMzyNh |
 | Video | https://youtu.be/tG6OgRxald4  |
